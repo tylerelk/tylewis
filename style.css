@@ -524,8 +524,11 @@ input[type="submit"] {
   }
 
   .main-title {
+    width: 100%;
     font-size: 50px;
-    text-align: left;
+    background-color: var(--dark);
+    padding: 1rem;
+    letter-spacing: 1.5rem;
   }
 
   .bio-header {
